@@ -8,17 +8,17 @@ This is a comprehensive quiz application built using Python and the Tkinter modu
 
 - **Admin Login for Adding Questions**:
   - Admins can securely log in to add new quiz questions.
-![admin login window]([URL or path to image](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(75).png))
+![admin login window](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(75).png)
 ![GUI for add questions on quiz app](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(76).png)
 
 - **User Signup and Account Creation**:
   - Users can create an account by providing a username and password.
-![window for creating user account]([URL or path to image](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(74).png))
+![window for creating user account](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(74).png)
 
 - **User Login to Take the Quiz**:
   - After creating an account, users can log in with their credentials.
   - Successful login redirects users to the quiz window automatically.
-![Main Window of quiz application]([URL or path to image](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(73).png))
+![Main Window of quiz application](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(73).png)
 
 ## Getting Started
 
