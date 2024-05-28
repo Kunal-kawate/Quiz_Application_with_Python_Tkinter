@@ -2,28 +2,33 @@
 
 This is a comprehensive quiz application built using Python and the Tkinter module. The application supports user account creation, secure login, and an admin interface for adding quiz questions. All functionalities are implemented within a single `main.py` file, and quiz questions are stored using JSON files.
 
-![URL or path to image](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(77).png)
-
+<p align="center">
+  <img src="images/Screenshot%20(77).png" alt="Main windows of quiz application...">
+</p>
 ## Features
 
 - **Admin Login for Adding Questions**:
   - Admins can securely log in to add new quiz questions.
-![admin login window](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(75).png)
-![GUI for add questions on quiz app](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(76).png)
+<p align="center">
+  <img src="images/Screenshot%20(75).png" alt="admin login window">
+</p>
 
 <p align="center">
-  <img src="images/Screenshot%20(76).png" alt="Quiz Application Screenshot">
+  <img src="images/Screenshot%20(76).png" alt="GUI for add questions on quiz app">
 </p>
 
 - **User Signup and Account Creation**:
   - Users can create an account by providing a username and password.
-![window for creating user account](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(74).png)
-
+<p align="center">
+  <img src="images/Screenshot%20(74).png" alt="window for creating user account">
+</p>
 - **User Login to Take the Quiz**:
   - After creating an account, users can log in with their credentials.
   - Successful login redirects users to the quiz window automatically.
-![Main Window of quiz application](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(73).png)
 
+<p align="center">
+  <img src="images/Screenshot%20(73).png" alt="Main Window of quiz application">
+</p>
 ## Getting Started
 
 ### Prerequisites
@@ -34,8 +39,8 @@ This is a comprehensive quiz application built using Python and the Tkinter modu
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/quiz-application.git
-    cd quiz-application
+    git clone https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter.git
+    cd Quiz_Application_with_Python_Tkinter
     ```
 
 2. **Install Tkinter**:
@@ -85,4 +90,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Thanks to the contributors and the open-source community for their support and contributions.
+- For contributors always welcome, contact- kunalkawate424@gmail.com
