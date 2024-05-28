@@ -5,7 +5,7 @@ This is a comprehensive quiz application built using Python and the Tkinter modu
 <p align="center">
   <img src="images/Screenshot%20(77).png" alt="Main windows of quiz application...">
 </p>
-## Features
+# Features
 
 - **Admin Login for Adding Questions**:
   - Admins can securely log in to add new quiz questions.
@@ -22,14 +22,14 @@ This is a comprehensive quiz application built using Python and the Tkinter modu
 <p align="center">
   <img src="images/Screenshot%20(74).png" alt="window for creating user account">
 </p>
-- **User Login to Take the Quiz**:
+- *User Login to Take the Quiz*:
   - After creating an account, users can log in with their credentials.
   - Successful login redirects users to the quiz window automatically.
 
 <p align="center">
   <img src="images/Screenshot%20(73).png" alt="Main Window of quiz application">
 </p>
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 
