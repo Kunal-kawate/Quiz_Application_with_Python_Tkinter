@@ -11,6 +11,10 @@ This is a comprehensive quiz application built using Python and the Tkinter modu
 ![admin login window](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(75).png)
 ![GUI for add questions on quiz app](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(76).png)
 
+<p align="center">
+  <img src="images/Screenshot%20(76).png" alt="Quiz Application Screenshot">
+</p>
+
 - **User Signup and Account Creation**:
   - Users can create an account by providing a username and password.
 ![window for creating user account](https://github.com/Kunal-kawate/Quiz_Application_with_Python_Tkinter/blob/main/images/Screenshot%20(74).png)
